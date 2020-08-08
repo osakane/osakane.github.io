@@ -8,4 +8,6 @@
 - OS: Linux SunOS Solaris windows
 - program: C bsh HTML/CSS javascript
 
+
+[あなたのいいところ診断](https://osakane.github.io/assessment/assessment.html)
 <iframe src="https://www.openprocessing.org/sketch/942589/embed/" width="400" height="300"></iframe>
